@@ -9,3 +9,6 @@
 #### Firebase : [Click here or irscgtbit.web.app](https://irscgtbit.web.app)
 #### Github Pages : [click here or https://git.io/JLH9B](https://git.io/JLH9B)
 #### Surge : [Click here or irscgtbit.surge.sh](https://irscgtbit.surge.sh)
+
+see how is its appearence and how responsive is it..
+![image](https://github.com/anandprabhakar0507/Responsive-website-for-IRSC-GTBIT/blob/main/irscgtbit.gif?raw=true)
