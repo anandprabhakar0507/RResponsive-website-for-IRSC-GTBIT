@@ -25,7 +25,8 @@ function knockit(){
     if (document.fullscreenEnabled) {
         console.log("going to Fullscreen mode");
         document.getElementById('container').requestFullscreen();
-        
+        document.getElementById('container').mozRequestFullScreen();
+        document.getElementById('container').webKitRequestFullScreen();
     }
 }
 
