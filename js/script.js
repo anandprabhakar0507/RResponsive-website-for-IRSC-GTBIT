@@ -34,8 +34,9 @@ function gototop() {
     
     window.onscroll = function() {scrollFunction()};                   
     function scrollFunction() {
-        if (document.body.scrollTop > 15 || document.documentElement.scrollTop > 15) {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
             document.getElementById("top").style.display = "block";
+            document.getElementById("top").style.background = "pink";
         }else {
         document.getElementById("top").style.display = "none";
     }
